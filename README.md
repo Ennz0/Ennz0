@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ennz0
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C/C#
+- 🌱 I’m currently learning C/C#/Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
