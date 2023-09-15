@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ennz0
 - 👀 I’m interested in programming and api's
-- 🌱 I’m currently learning C/C#/Python
+- 🌱 I’m currently learning C#/Python
